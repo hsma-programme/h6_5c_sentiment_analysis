@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.11.4
   - ipykernel
+  - pip
   - pip:
     - tensorflow==2.16.1
     - tensorflow-hub==0.16.1
